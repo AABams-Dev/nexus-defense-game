@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: "Nexus Network Defense",
   description: "A tower defense game set in the Nexus universe",
   generator: "",
+  icons:{
+    icon:"/favicon.jpg"
+  },
 }
 
 export default function RootLayout({
