@@ -1008,7 +1008,7 @@ function NexusNetworkDefense({ onOpenMultiplayerModal }: { onOpenMultiplayerModa
             <Button
               variant="ghost"
               size="icon"
-              className="h-8 w-8"
+              className="hidden"
               title="Multiplayer"
               onClick={handleMultiplayerClick}
             >
