@@ -1058,7 +1058,7 @@ function NexusNetworkDefense({ onOpenMultiplayerModal }: { onOpenMultiplayerModa
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                       <div className="bg-gray-800 p-4 rounded-lg border border-blue-500/30">
                         <div className="text-blue-400 font-semibold text-base mb-2">Laser Node</div>
-                        <div className="text-sm text-gray-400 mb-2">Cost: 50 Credits</div>
+                        <div className="text-sm text-gray-400 mb-5">Cost: 50 Credits</div>
                         <div className="text-sm text-gray-400 mb-2">Damage: 25 | Range: 80</div>
                         <div className="text-sm text-gray-300">
                           Fast firing, affordable basic defense. Great for early waves.
@@ -1066,13 +1066,13 @@ function NexusNetworkDefense({ onOpenMultiplayerModal }: { onOpenMultiplayerModa
                       </div>
                       <div className="bg-gray-800 p-4 rounded-lg border border-cyan-500/30">
                         <div className="text-cyan-400 font-semibold text-base mb-2">Plasma Core</div>
-                        <div className="text-sm text-gray-400 mb-2">Cost: 100 Credits</div>
+                        <div className="text-sm text-gray-400 mb-5">Cost: 100 Credits</div>
                         <div className="text-sm text-gray-400 mb-2">Damage: 45 | Range: 60</div>
                         <div className="text-sm text-gray-300">Balanced power and range. Solid mid-game choice.</div>
                       </div>
                       <div className="bg-gray-800 p-4 rounded-lg border border-purple-500/30">
                         <div className="text-purple-400 font-semibold text-base mb-2">Quantum Gate</div>
-                        <div className="text-sm text-gray-400 mb-2">Cost: 200 Credits</div>
+                        <div className="text-sm text-gray-400 mb-5">Cost: 200 Credits</div>
                         <div className="text-sm text-gray-400 mb-2">Damage: 80 | Range: 100</div>
                         <div className="text-sm text-gray-300">
                           Ultimate high-damage defense. Perfect for tough enemies.
@@ -1088,7 +1088,7 @@ function NexusNetworkDefense({ onOpenMultiplayerModal }: { onOpenMultiplayerModa
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                       <div className="bg-gray-800 p-4 rounded-lg border border-red-500/30">
                         <div className="text-red-400 font-semibold text-base mb-2">Virus</div>
-                        <div className="text-sm text-gray-400 mb-2">Health: 50 | Speed: Fast</div>
+                        <div className="text-sm text-gray-400 mb-5">Health: 50 | Speed: Fast</div>
                         <div className="text-sm text-gray-400 mb-2">Reward: 10 Credits</div>
                         <div className="text-sm text-gray-300">
                           Quick but weak. Easy to eliminate with basic defenses.
@@ -1096,7 +1096,7 @@ function NexusNetworkDefense({ onOpenMultiplayerModal }: { onOpenMultiplayerModa
                       </div>
                       <div className="bg-gray-800 p-4 rounded-lg border border-orange-500/30">
                         <div className="text-orange-400 font-semibold text-base mb-2">Malware</div>
-                        <div className="text-sm text-gray-400 mb-2">Health: 100 | Speed: Medium</div>
+                        <div className="text-sm text-gray-400 mb-5">Health: 100 | Speed: Medium</div>
                         <div className="text-sm text-gray-400 mb-2">Reward: 20 Credits</div>
                         <div className="text-sm text-gray-300">
                           Balanced threat. Requires focused fire to eliminate.
@@ -1104,7 +1104,7 @@ function NexusNetworkDefense({ onOpenMultiplayerModal }: { onOpenMultiplayerModa
                       </div>
                       <div className="bg-gray-800 p-4 rounded-lg border border-red-600/30">
                         <div className="text-red-600 font-semibold text-base mb-2">Trojan</div>
-                        <div className="text-sm text-gray-400 mb-2">Health: 200 | Speed: Slow</div>
+                        <div className="text-sm text-gray-400 mb-5">Health: 200 | Speed: Slow</div>
                         <div className="text-sm text-gray-400 mb-2">Reward: 40 Credits</div>
                         <div className="text-sm text-gray-300">
                           Heavily armored. Needs multiple towers or high-damage nodes.
