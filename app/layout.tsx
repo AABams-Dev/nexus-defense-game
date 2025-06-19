@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "A tower defense game set in the Nexus universe",
   generator: "",
   icons:{
-    icon:"public/favicon.jpg"
+    icon:"/favicon.jpg"
   },
 }
 
